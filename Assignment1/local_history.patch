@@ -1,0 +1,29 @@
+Index: mymath.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/mymath.py b/mymath.py
+--- a/mymath.py	
++++ b/mymath.py	(date 1731064925544)
+@@ -1,0 +1,19 @@
++def add_three(a, b, c):
++    return -1
++
++def subtract_three(a, b, c):
++    return -1
++
++def multiply_three(a, b, c):
++    return -1
++
++def divide_three(a, b, c):
++    return -1
++
++def square(a):
++    #return a**2
++    return -1
++
++def cube(a):
++    #return a**3
++    return -1
+\ No newline at end of file
